@@ -1,6 +1,6 @@
+import React from "react"
 import { Link, graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import React from "react"
 import { MainLayout } from "../components/layouts/MainLayout"
 import { header, btn } from "../styles/home.module.css"
 
